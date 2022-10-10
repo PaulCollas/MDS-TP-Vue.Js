@@ -31,6 +31,10 @@ Veuillez vous diriger vers le dossier correspondant au dossier du TP concerné.
 
 Les explications de chaque TP se trouve dans chaque ReadMe dans dossier du TP.
 
+## Importer Vue.JS
+
+> 		<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
 
 ## ⌨ License
   
