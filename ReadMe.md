@@ -22,7 +22,7 @@ Ce repository comprends les différentes documentations de cours, les différent
 
 - Le cours sur les frameworks / Vue.JS :
 
-https://www.canva.com/design/DAFOo0u-VjI/Si7VhJDll2Kk6gqMYkZ23g/view?utm_content=DAFOo0u-VjI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+https://www.canva.com/design/DAFMXF3RiuE/CamhyXsHORsrArBGjQp9zg/view?utm_content=DAFMXF3RiuE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## 🎮 Les TPS
 
